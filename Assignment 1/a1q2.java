@@ -2,7 +2,7 @@ public class Question2 {
 	public static void main (String [] args)
 	
 	{
-		Double CAD = 345.00;
+		double CAD = 345.00;
 		double conEURO = 0.66;
 		double conUSD = 0.77;
 		double conJPY = 86.04;
