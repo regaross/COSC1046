@@ -45,7 +45,4 @@ int main(){
     cout << "10: \t" << rolls[8] << "\t" << 100*rolls[8]/num_rolls << "\%" << endl;
     cout << "11: \t" << rolls[9] << "\t" << 100*rolls[9]/num_rolls << "\%" << endl;
     cout << "12: \t" << rolls[10] << "\t" << 100*rolls[10]/num_rolls << "\%" << endl;
-
-
-
 }
